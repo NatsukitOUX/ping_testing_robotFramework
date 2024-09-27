@@ -1,0 +1,6 @@
+Webpage: www.whitehouse.gov, IP: [192.0.66.168], Avg Ping: 23.5 ms
+Webpage: www.iltalehti.fi, IP: [52.85.49.69], Avg Ping: 12.75 ms
+Webpage: best.aliexpress.com, IP: [23.52.21.157], Avg Ping: 20.0 ms
+Webpage: www.whitehouse.gov, IP: [192.0.66.168], Avg Ping: 99.25 ms
+Webpage: www.iltalehti.fi, IP: [52.85.49.93], Avg Ping: 13.25 ms
+Webpage: best.aliexpress.com, IP: [23.52.21.157], Avg Ping: 18.5 ms

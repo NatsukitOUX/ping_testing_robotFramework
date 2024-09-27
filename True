@@ -1,0 +1,11 @@
+
+Pinging wh46.go-vip.net [192.0.66.168] with 32 bytes of data:
+Reply from 192.0.66.168: bytes=32 time=18ms TTL=57
+Reply from 192.0.66.168: bytes=32 time=19ms TTL=57
+Reply from 192.0.66.168: bytes=32 time=19ms TTL=57
+Reply from 192.0.66.168: bytes=32 time=19ms TTL=57
+
+Ping statistics for 192.0.66.168:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 18ms, Maximum = 19ms, Average = 18ms

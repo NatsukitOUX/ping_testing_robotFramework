@@ -1,0 +1,11 @@
+
+Pinging e11956.x.akamaiedge.net [23.52.21.157] with 32 bytes of data:
+Reply from 23.52.21.157: bytes=32 time=22ms TTL=54
+Reply from 23.52.21.157: bytes=32 time=18ms TTL=54
+Reply from 23.52.21.157: bytes=32 time=17ms TTL=54
+Reply from 23.52.21.157: bytes=32 time=17ms TTL=54
+
+Ping statistics for 23.52.21.157:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 22ms, Average = 18ms
